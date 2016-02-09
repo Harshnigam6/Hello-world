@@ -3,4 +3,4 @@ another respo
 
 
 
-aright , just getting started with giuthub
+aright , just getting started with giuthun
